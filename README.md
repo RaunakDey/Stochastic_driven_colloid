@@ -7,9 +7,9 @@ This project contains the data files and the codes for our "Skewness paper".
 .
     ├── docs                    # Documentation files (alternatively `doc`)
     ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── data                    # Data files
+    ├── data                    # Data files (contains raw data)
+    |   ├── power 1
+    |   ├── power 2
+    |   ├── power e
     ├── LICENSE
     └── README.md
-
-> Use short lowercase names at least for the top-level files and folders except
-> `LICENSE`, `README.md`

@@ -5,11 +5,11 @@ This project contains the data files and the codes for our "Skewness paper".
 ### Repository Structure
 
 .
-    ├── docs                    # Documentation files (alternatively `doc`)
-    ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── data                    # Data files (contains raw data)
-    |   ├── power 1
-    |   ├── power 2
-    |   ├── power e
-    ├── LICENSE
-    └── README.md
+    ├── docs                    # Documentation files (alternatively `doc`)  <br />
+    ├── src                     # Source files (alternatively `lib` or `app`)  <br />
+    ├── data                    # Data files (contains raw data)  <br />
+    |   ├── power 1  <br />
+    |   ├── power 2  <br />
+    |   ├── power e  <br />
+    ├── LICENSE  <br />
+    └── README.md  <br />

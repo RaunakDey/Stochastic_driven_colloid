@@ -10,6 +10,6 @@ This project contains the data files and the codes for our "Skewness paper".
     ├── data                    # Data files (contains raw data)  <br />
     |   ├── power 1  <br />
     |   ├── power 2  <br />
-    |   ├── power e  <br />
-    ├── LICENSE  <br />
-    └── README.md  <br />
+    |   ├── power 3 <br />
+    ├── LICENSE     <br />
+    └── README.md   <br />

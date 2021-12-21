@@ -13,3 +13,11 @@ This project contains the data files and the codes for our "Skewness paper".
     |       ├── power 3 <br />
     ├── LICENSE     <br />
     └── README.md   <br />
+
+
+### Documentation
+
+The documentations page is yet to be updated. However, one can read the preprint of the project in the arxiv server [here](https://arxiv.org/abs/2104.00127)
+
+### 
+

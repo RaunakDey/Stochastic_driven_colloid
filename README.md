@@ -10,3 +10,6 @@ This project contains the data files and the codes for our "Skewness paper".
     ├── data                    # Data files
     ├── LICENSE
     └── README.md
+
+> Use short lowercase names at least for the top-level files and folders except
+> `LICENSE`, `README.md`
